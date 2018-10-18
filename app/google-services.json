@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "242049607619",
+    "firebase_url": "https://login-67895.firebaseio.com",
+    "project_id": "login-67895",
+    "storage_bucket": "login-67895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242049607619:android:1fa89febb1ca691f",
+        "android_client_info": {
+          "package_name": "com.example.nuvullc.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242049607619-5i10eh1jkegahksbvjimn20ehtpt0mj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAbS-z8ZMGg2-y2SlLTx2fSUBYqHCfLoM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
